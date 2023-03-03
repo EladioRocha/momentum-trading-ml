@@ -1,0 +1,1 @@
+To get the content of the csv files install **git lfs** and run `git lfs pull`
